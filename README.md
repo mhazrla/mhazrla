@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Hilmy Azkarillah**.<br>
 
-Saya seorang **Backend Developer** di [M-Knows Consulting](https://www.m-knowsconsulting.com/).<br>
+Saya seorang **Web Developer** di [PT. Amerta Indah Otsuka](https://www.aio.co.id/).<br>
 
 Saya juga memiliki sertifikasi Programmer sejak tahun 2021 dan Junior Web Developer sejak 2022 oleh BNSP.<br>
 
