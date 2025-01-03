@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 I’m currently working on <br>Building responsive websites and web apps for portfolio, focusing on performance and UX<br>👯 I’m looking to collaborate on <br>Creative front-end and full-stack web projects using Angular, React, NodeJS, and Laravel<br>🤝 I’m looking for help with<br>Scaling web apps and optimizing back-end and front-end performance<br>🌱 I’m currently learning <br>Advanced React and GraphQL<br>💬 Ask me about <br>Beb development best practices, optimizing page load speed, or managing freelance projects<br>⚡ Fun fact <br>I’m currently exploring React libraries to enhance my front-end skills.<br><br><br><br>
+🏢 I’m currently working on <br>Building responsive websites and web apps for portfolio, focusing on performance and UX<br>👯 I’m looking to collaborate on <br>Creative front-end and full-stack web projects using Angular, React, NodeJS, and Laravel<br>🤝 I’m looking for help with<br>Scaling web apps and optimizing back-end and front-end performance<br>🌱 I’m currently learning <br>Advanced React and Flutter<br>💬 Ask me about <br>Beb development best practices, optimizing page load speed, or managing freelance projects<br>⚡ Fun fact <br>I’m currently exploring React libraries to enhance my front-end skills.<br><br><br><br>
 
 
 ## 🌐 Socials:
